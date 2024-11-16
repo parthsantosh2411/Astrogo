@@ -1,0 +1,8 @@
+Flask==2.1.1
+Flask-CORS==3.0.10
+openai==0.27.0
+opencage==1.2.2
+swisseph==2.10.2
+pytz==2021.3
+requests==2.27.1
+datetime==4.3
